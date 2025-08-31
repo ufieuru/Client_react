@@ -2,6 +2,7 @@
   "name": "lib",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://mungo.p-e.kr",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
